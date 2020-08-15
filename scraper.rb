@@ -21,7 +21,7 @@ class ListPage < WikipediaOfficeholderPage
   decorator UnspanAllTables
 
   def wanted_tables
-    tables_with_header('office').first
+    tables_with_header('office')
   end
 end
 
