@@ -1,0 +1,186 @@
+[
+  {
+    "item": {
+      "value": "Q300023",
+      "label": "David Davis"
+    },
+    "replaces": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "replacedBy": {
+      "value": "Q338176",
+      "label": "David Curry"
+    },
+    "start": {
+      "value": "2002-07-23T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q300023$6AF0CCD9-5D63-4AA4-AF6C-18D7B7230D25"
+  },
+  {
+    "item": {
+      "value": "Q338176",
+      "label": "David Curry"
+    },
+    "replaces": {
+      "value": "Q300023",
+      "label": "David Davis"
+    },
+    "replacedBy": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "start": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2004-03-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q338176$F84C9775-3F02-4D3D-BCF1-7E0BBB535760"
+  },
+  {
+    "item": {
+      "value": "Q333493",
+      "label": "Eric Pickles"
+    },
+    "replaces": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "replacedBy": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "start": {
+      "value": "2007-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-01-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333493$FDB5F07C-1B75-40AF-9460-5B9D07656464"
+  },
+  {
+    "item": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "replaces": {
+      "value": "Q333493",
+      "label": "Eric Pickles"
+    },
+    "replacedBy": {
+      "value": "Q300069",
+      "label": "John Denham"
+    },
+    "start": {
+      "value": "2009-01-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-12T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332954$C96D236D-E292-4813-8432-637C51FF87D0"
+  },
+  {
+    "item": {
+      "value": "Q300069",
+      "label": "John Denham"
+    },
+    "replaces": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "replacedBy": {
+      "value": "Q251095",
+      "label": "Caroline Flint"
+    },
+    "start": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q300069$1B6EA02F-4354-43CC-9B88-18A6FCDA5621"
+  },
+  {
+    "item": {
+      "value": "Q251095",
+      "label": "Caroline Flint"
+    },
+    "replaces": {
+      "value": "Q300069",
+      "label": "John Denham"
+    },
+    "replacedBy": {
+      "value": "Q262742",
+      "label": "Hilary Benn"
+    },
+    "start": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q251095$1003E0BD-8154-4051-8D35-B6EAF09E203E"
+  },
+  {
+    "item": {
+      "value": "Q262742",
+      "label": "Hilary Benn"
+    },
+    "replaces": {
+      "value": "Q251095",
+      "label": "Caroline Flint"
+    },
+    "replacedBy": {
+      "value": "Q501942",
+      "label": "Emma Reynolds"
+    },
+    "start": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q262742$2C78430E-69C1-4FAB-8789-FD9242119DDC"
+  },
+  {
+    "item": {
+      "value": "Q272234",
+      "label": "Jon Trickett"
+    },
+    "replaces": {
+      "value": "Q501942",
+      "label": "Emma Reynolds"
+    },
+    "replacedBy": {
+      "value": "Q580215",
+      "label": "Grahame Morris"
+    },
+    "start": {
+      "value": "2015-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272234$ABB3BC35-4B6F-4395-A652-FCA4F72339E4"
+  }
+]
